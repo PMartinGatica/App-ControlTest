@@ -10,10 +10,13 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-picker/picker": "^2.11.0",
+    "axios": "^1.9.0",
     "expo": "~53.0.9",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
-    "react-native": "0.79.2"
+    "react-native": "0.79.2",
+    "react-native-gesture-handler": "~2.24.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
